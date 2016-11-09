@@ -1,2 +1,2 @@
-# backboneDemo
-This is a demo of backbone - we will consider using backbone.js in our future projects.
+# Backbone To-Do List 
+[Click this to view the Backbone To-Do List webpage](https://exarp1.github.io/backboneDemo)
